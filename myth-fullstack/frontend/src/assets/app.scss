@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    color: black;
+}
+
+hr{
+    border-top: 0.05px solid gray;
+    width: 75%;
+    margin: auto;
+}
